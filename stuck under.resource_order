@@ -2,5 +2,7 @@
   "FolderOrderSettings":[
     {"name":"sprite","order":1,"path":"folders/sprite.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"back1","order":1,"path":"sprites/back1/back1.yy",},
+  ],
 }
