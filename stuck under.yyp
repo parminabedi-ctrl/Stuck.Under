@@ -33,7 +33,13 @@
     {"id":{"name":"back3","path":"sprites/back3/back3.yy",},},
     {"id":{"name":"back4","path":"sprites/back4/back4.yy",},},
     {"id":{"name":"sButtonStart","path":"sprites/sButtonStart/sButtonStart.yy",},},
+<<<<<<< HEAD
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
+=======
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+>>>>>>> 1943f23ffcc1e07b8c8963d9dcc33b4c0a476f4c
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -13,6 +13,11 @@
     {"name":"back3","order":5,"path":"sprites/back3/back3.yy",},
     {"name":"back4","order":5,"path":"sprites/back4/back4.yy",},
     {"name":"sButtonStart","order":2,"path":"sprites/sButtonStart/sButtonStart.yy",},
+<<<<<<< HEAD
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+=======
     {"name":"sPlayer","order":4,"path":"sprites/sPlayer/sPlayer.yy",},
+>>>>>>> 1943f23ffcc1e07b8c8963d9dcc33b4c0a476f4c
   ],
 }
