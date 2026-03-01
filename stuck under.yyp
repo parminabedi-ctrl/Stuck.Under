@@ -14,7 +14,9 @@
     {"$GMFolder":"","%Name":"sprite","folderPath":"folders/sprite.yy","name":"sprite","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"lava-pixel-blocks-background-pattern-retro-console-game-level-cubic-pixel-texture_384401-4700.avif","CopyToMask":-1,"filePath":"datafiles","name":"lava-pixel-blocks-background-pattern-retro-console-game-level-cubic-pixel-texture_384401-4700.avif","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -35,6 +37,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"back1","path":"sprites/back1/back1.yy",},},
     {"id":{"name":"back2","path":"sprites/back2/back2.yy",},},
     {"id":{"name":"back3","path":"sprites/back3/back3.yy",},},
@@ -56,6 +59,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

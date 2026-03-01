@@ -15,6 +15,7 @@
     {"name":"ostalagtite","order":19,"path":"objects/ostalagtite/ostalagtite.yy",},
     {"name":"Room1","order":3,"path":"rooms/Room1/Room1.yy",},
     {"name":"Room2","order":4,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room4","order":21,"path":"rooms/Room4/Room4.yy",},
     {"name":"back1","order":1,"path":"sprites/back1/back1.yy",},
     {"name":"back2","order":3,"path":"sprites/back2/back2.yy",},
     {"name":"sblock1","order":5,"path":"sprites/sblock1/sblock1.yy",},
