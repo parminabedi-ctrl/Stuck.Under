@@ -1,8 +1,12 @@
 {
   "FolderOrderSettings":[
+    {"name":"Object","order":2,"path":"folders/Object.yy",},
     {"name":"sprite","order":1,"path":"folders/sprite.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Room1","order":3,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Room2","order":4,"path":"rooms/Room2/Room2.yy",},
     {"name":"back1","order":1,"path":"sprites/back1/back1.yy",},
+    {"name":"sButtonStart","order":2,"path":"sprites/sButtonStart/sButtonStart.yy",},
   ],
 }
