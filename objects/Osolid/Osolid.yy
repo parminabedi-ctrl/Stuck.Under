@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Osolid",
+  "%Name":"oSolid",
   "eventList":[],
   "managed":true,
-  "name":"Osolid",
+  "name":"oSolid",
   "overriddenProperties":[],
   "parent":{
     "name":"stuck under",
