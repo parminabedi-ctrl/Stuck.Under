@@ -4,12 +4,18 @@
     {"name":"sprite","order":1,"path":"folders/sprite.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"oblock1","order":6,"path":"objects/oblock1/oblock1.yy",},
+    {"name":"ohole","order":10,"path":"objects/ohole/ohole.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"ospikes","order":7,"path":"objects/ospikes/ospikes.yy",},
     {"name":"Room1","order":3,"path":"rooms/Room1/Room1.yy",},
     {"name":"Room2","order":4,"path":"rooms/Room2/Room2.yy",},
     {"name":"back1","order":1,"path":"sprites/back1/back1.yy",},
     {"name":"back2","order":3,"path":"sprites/back2/back2.yy",},
+    {"name":"sblock1","order":5,"path":"sprites/sblock1/sblock1.yy",},
     {"name":"sButtonStart","order":2,"path":"sprites/sButtonStart/sButtonStart.yy",},
+    {"name":"shole","order":9,"path":"sprites/shole/shole.yy",},
     {"name":"sPlayer","order":4,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sspikes","order":8,"path":"sprites/sspikes/sspikes.yy",},
   ],
 }
