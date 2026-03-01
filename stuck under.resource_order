@@ -9,5 +9,6 @@
     {"name":"back1","order":1,"path":"sprites/back1/back1.yy",},
     {"name":"back2","order":3,"path":"sprites/back2/back2.yy",},
     {"name":"sButtonStart","order":2,"path":"sprites/sButtonStart/sButtonStart.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }

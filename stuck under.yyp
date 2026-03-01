@@ -29,6 +29,7 @@
     {"id":{"name":"back2","path":"sprites/back2/back2.yy",},},
     {"id":{"name":"sButtonStart","path":"sprites/sButtonStart/sButtonStart.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
