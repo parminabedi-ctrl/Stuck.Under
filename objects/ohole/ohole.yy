@@ -6,8 +6,8 @@
   "name":"ohole",
   "overriddenProperties":[],
   "parent":{
-    "name":"stuck under",
-    "path":"stuck under.yyp",
+    "name":"Object",
+    "path":"folders/Object.yy",
   },
   "parentObjectId":null,
   "persistent":false,
