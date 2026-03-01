@@ -30,6 +30,7 @@
     {"id":{"name":"ohole","path":"objects/ohole/ohole.yy",},},
     {"id":{"name":"olavahound","path":"objects/olavahound/olavahound.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"Osolid","path":"objects/Osolid/Osolid.yy",},},
     {"id":{"name":"ospikes","path":"objects/ospikes/ospikes.yy",},},
     {"id":{"name":"ostalagtite","path":"objects/ostalagtite/ostalagtite.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

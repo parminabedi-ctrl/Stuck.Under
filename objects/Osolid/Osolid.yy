@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oblock3",
+  "%Name":"Osolid",
   "eventList":[],
   "managed":true,
-  "name":"oblock3",
+  "name":"Osolid",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Object.yy",
+    "name":"stuck under",
+    "path":"stuck under.yyp",
   },
-  "parentObjectId":{
-    "name":"Osolid",
-    "path":"objects/Osolid/Osolid.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sblock3",
-    "path":"sprites/sblock3/sblock3.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

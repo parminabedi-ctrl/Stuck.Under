@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"stuck under",
-    "path":"stuck under.yyp",
+    "name":"sprite",
+    "path":"folders/sprite.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

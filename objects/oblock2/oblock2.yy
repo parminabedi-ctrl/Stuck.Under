@@ -6,10 +6,13 @@
   "name":"oblock2",
   "overriddenProperties":[],
   "parent":{
-    "name":"stuck under",
-    "path":"stuck under.yyp",
+    "name":"Object",
+    "path":"folders/Object.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Osolid",
+    "path":"objects/Osolid/Osolid.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
